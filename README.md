@@ -1,4 +1,6 @@
-### Hi there 👋
+- 👋 Olá, me chamo Vinicius de Lima Albino.
+- 🌱 Estou no processo de aprendizado de front-end.
+- ⚡ Fiz alguns projetos com HTML e CSS.
 
 <!--
 **Vini-bfend/Vini-bfend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
