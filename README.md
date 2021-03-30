@@ -1,4 +1,6 @@
-- 👋 Olá, me chamo Vinicius de Lima Albino.
+<span style="font-size: 20px"> Olá 👋 </span>
+
+- 💬 Me chamo Vinicius de Lima Albino.
 - 🌱 Estou no processo de aprendizado de front-end.
 - ⚡ Fiz alguns projetos com HTML e CSS.
 
