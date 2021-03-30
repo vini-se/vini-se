@@ -1,8 +1,8 @@
-### Olá 👋
+### Hello there 👋
 
-- 💬 Me chamo Vinicius de Lima Albino.
-- 🌱 Estou no processo de aprendizado de front-end.
-- ⚡ Fiz alguns projetos com HTML e CSS.
+- 💬 My name is Vinicius.
+- 🌱 I'm on learning process of front-end and tools.
+- ⚡  I did some front-pages with HTML and CSS.
 
 
 
