@@ -4,6 +4,10 @@
 - 🌱 Estou no processo de aprendizado de front-end.
 - ⚡ Fiz alguns projetos com HTML e CSS.
 
+
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vini-bfend&layout=compact)](https://github.com/Vini-bfend/github-readme-stats)
+
 <!--
 **Vini-bfend/Vini-bfend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
