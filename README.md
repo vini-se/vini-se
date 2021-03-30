@@ -1,4 +1,4 @@
-<span style="font-size: 20px"> Olá 👋 </span>
+### Olá 👋
 
 - 💬 Me chamo Vinicius de Lima Albino.
 - 🌱 Estou no processo de aprendizado de front-end.
