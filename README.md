@@ -24,5 +24,5 @@
 <br>
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vini-bfend&layout=compact)](https://github.com/Vini-bfend/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vini-se&layout=compact)](https://github.com/vini-se/github-readme-stats)
  
