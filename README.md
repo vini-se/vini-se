@@ -35,3 +35,9 @@ I'm a Back-end Developer with over 3 years of experience in the field, I've had 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+  
+<br>
+
+### 🐍 Snake Game Contribution Graph
+
+![snake gif](https://vini-se.github.io/vini-se/github-contribution-grid-snake.svg)
